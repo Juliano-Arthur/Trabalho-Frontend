@@ -1,0 +1,29 @@
+#visual{
+    background-color:#6DC3F3;
+    text-align: center;
+    color: antiquewhite;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 20px;
+    font-size: xx-large;
+    height: 500px;
+}
+#imagens{
+    margin-left: 27%;
+    margin-top: 50px;
+}
+#imagem1{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+#imagem2{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+#imagem3{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
